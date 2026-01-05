@@ -74,4 +74,6 @@ claude-desktop-fedora/
 
 ## Disclaimer
 
-This is not an official Anthropic package. Use at your own risk.
+This is a personal, open-source project and not an official Anthropic package.
+It is not affiliated with, endorsed by, or supported by Anthropic or my employer.
+Use at your own risk.
