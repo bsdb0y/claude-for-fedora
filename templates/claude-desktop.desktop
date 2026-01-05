@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Claude
+Comment=AI Assistant from Anthropic
+Exec=claude-desktop %u
+Icon=claude-desktop
+Type=Application
+Terminal=false
+Categories=Office;Utility;Network;
+MimeType=x-scheme-handler/claude;
+StartupWMClass=Claude
+StartupNotify=true
